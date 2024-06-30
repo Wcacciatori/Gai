@@ -1,0 +1,6 @@
+{
+    "conf": 0.75,
+    "iou": 0.74,
+    "weights": "D:/User/Documents/SC/well_stolen/well_stolen/detect.pt",
+    "is_save": "checked"
+}
